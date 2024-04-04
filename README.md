@@ -21,8 +21,9 @@ Options:
 - `-v`, `--version`: Client version (default: 2.0).
 - `-t`, `--truncated`: Simulate a truncated server response (optional).
 
-Example:
+Examples:
 
+`python terrapin.py -url 127.0.0.0`
 `python terrapin.py -url 127.0.0.0 -v 1.9.9p1 -t`
 
 ## Importance of Fixing the Issues
