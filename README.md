@@ -29,4 +29,4 @@ Example:
 ## Importance of Fixing the Issues
 It's crucial to fix vulnerabilities like Terrapin (CVE-2023-48795) because they pose significant security risks to SSH communication. By exploiting these weaknesses, attackers can compromise the integrity and confidentiality of SSH connections, potentially leading to unauthorized access, data breaches, and other security incidents. Patching vulnerable SSH servers and ensuring secure configurations help protect against such attacks and maintain the security of network communication.
 
-## More info: https://terrapin-attack.com/
+**More info: https://terrapin-attack.com/**
