@@ -10,7 +10,7 @@ CVE-2023-48795 is a vulnerability that affects the SSH protocol, particularly Op
 To use this script, follow these steps:
 
 1. Install Python if you haven't already (Python 3.x is recommended).
-2. Clone the repository `git clone https://github.com/Dev5ec0ps/SSH-Terrapin-Attack` `or wget https://github.com/Dev5ec0ps/SSH-Terrapin-Attack/blob/main/terrapin.py`
+2. Clone the repository `git clone https://github.com/Dev5ec0ps/SSH-Terrapin-Attack` or `wget https://github.com/Dev5ec0ps/SSH-Terrapin-Attack/blob/main/terrapin.py`
 3. Go there `cd SSH-Terrapin-Attack`
 4. Run the script with the desired options:
 
